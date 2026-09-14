@@ -1,0 +1,7 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'E:\main_project\out\main_project-F_Cu.gbr'.
+Plotted to 'E:\main_project\out\main_project-B_Cu.gbr'.
+Plotted to 'E:\main_project\out\main_project-Edge_Cuts.gbr'.
+Created Gerber job file 'E:\main_project\out\main_project-job.gbrjob'.
+Info: Done.
